@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    color: #083594;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h1, h2, h3, h4 {
+    color: #083594;
+  }
+  
+  .navbar {
+    background-color: rgb(8, 83, 148);
+  }
+  
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  
+  .profile-card {
+    max-width: 350px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+  .profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 2px solid rgb(8, 83, 148);
+}
+
+  .bg-light {
+  background-color: #f8f9fa !important;
+}
+
+  h5 {
+  color: #083594;
+}
